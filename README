@@ -1,0 +1,74 @@
+Tantillus
+
+Introducing Tantillus. The portable self replicating mini printer.
+
+
+--Status--
+
+Feb 9, 2012
+
+    Alpha unit assembled and ready for testing. 
+
+
+--Design goals--
+
+    Portable
+    Self replicating
+    Compact
+    Fast
+    Printable frame
+    Expandable 
+
+
+--Specifications--
+
+Outer dimensions:
+
+    200mm x 200mm x 300mm (225mm x 225mm x 300mm with reinforcements brackets installed, see picture) 
+
+Build Area:
+
+    102mm x 102mm x 120mm (100mm x 100mm x 110 usable) 
+
+
+--Features--
+
+    LM8uu linear bearings on all axis (currently using Triffid Hunters printable LM8uu's for testing with excellent results).
+    Fully printed case.
+    It can print all of its own parts.
+    Designed to use J-head hotend (eventually).
+    Internally mounted extruder with bowden cable.
+    External power supply to allow for battery operated use.
+    Uses low cost wire rope (fishing wire) or High test Braided fishing line instead of costly belts (It wraps 5 times around the rod and then goes through a hole and wraps an additional 5 times resulting in no slip). This is a roll on roll off system with a fixed anchor in the middle. 
+
+
+Planned additions:
+
+    Extension panels to allow it to expand itself by 100mm in any or all directions (incomplete as of yet).
+    The ability to daisy chain two machines together to mass produce parts while only using one set of electronics (both machines would produce the same parts at the same time). 
+
+
+--Printed parts--
+
+(will be separated and corrected when the files are released)
+Count 	Part
+12x 	main sections
+12x 	connectors
+14x 	axis parts
+5x 	optional reinforcements
+3x 	extruder parts)
+2x 	extruder gears
+4x 	herringbone drive gears for axis
+
+
+--Vitamins--
+
+Count 	Part
+4x 	Nema 17 (max 42mm in length)
+11x 	608 skate bearings
+10x 	LM8uu linear bearings (or 8 LM8uu's and 4 LM8suu's)
+2x 	1 metre 8mm smooth rod (5/16")
+1x 	250mm 6mm threaded rod (1/4")
+60x 	Socket head screws (Allen head) (sizes to be added when finalized)
+1x 	RepRap compatible Electronics
+
