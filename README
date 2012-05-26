@@ -4,11 +4,17 @@ Introducing Tantillus. The portable self replicating mini printer.
 
 Please visit www.Tantillus.org for more information
 
+
+
 Derived parts:
 	4   -   Triffidhunter's Printable LM8uu v3 bushings http://www.thingiverse.com/thing:16813
 	2   -   Upper gears derived from Triffidhunter's herringbone gears http://www.thingiverse.com/thing:10707
 	2   -   Motor gears derived from Triffidhunter's herringbone gears http://www.thingiverse.com/thing:10707
 
+One piece case (200mm x 200mm x 300mm)
+	1   -   Tantillus.0.2.0.stl
+
+See image folder for exploded view of printed case.
 
 Printed Case files:
        1   -   Case top 1
@@ -34,5 +40,7 @@ If you orient them it would be nice to have a pull request.
        3   -   Base connectors
        1   -   Motor mount reinforcement
        4   -   Upper stiffeners
+
+Assembled and exploded view stl files are for reference only.
 
 Release date for source and other files June 15, 2012
