@@ -20,6 +20,10 @@ NOTE: See image folder for exploded view of printed case.
 
 - Printed Case files: -
 
+	- Printed case source: -
+	Tantillus.0.1.1.blend
+	Tantillus.0.1.1_ABS.blend
+
        1   -   Case top 1
        1   -   Case top 2
        1   -   Case top 3
@@ -162,3 +166,15 @@ NOTE: Not all of these are used for each machine choose wisely
 	Spool_holder.stl 	(Esun style spool)
 	Spool_holder_long.stl 	(Makerbot spool)
 	Spool_holder_mount.stl	(Fits both Esun and Makerbot spool holder)
+
+- Source files -
+
+	Tantillus.0.3.4.blend (laser cut case and all axis parts)
+
+	40mm_Fan_duct.blend
+	All_Fanmounts.blend
+	Extruder_gears_v2.blend
+	Plug_adapter.blend
+	Spool_holders.blend
+	Tantillus_extruder.blend
+	Tantillus_gears.blend
