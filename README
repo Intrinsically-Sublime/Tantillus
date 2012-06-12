@@ -36,7 +36,7 @@ NOTE: See image folder for exploded view of printed case.
 - Printed case connectors: -
 
 NOTE: Connectors are currently not oriented for printing (may 24, 2012+). 
-If you orient them it would be nice to have a pull request.
+If you orient them it would be nice to get a pull request.
 
        1   -   Top front connector
        2   -   Top side connectors
@@ -51,6 +51,7 @@ NOTE: Assembled and exploded view stl files are for reference only.
 
 
 - Axis Parts: -
+
 	1  -  Bowden clamp.stl
 	1  -  Carriage bottom.stl
 	1  -  Carriage top.stl
@@ -68,6 +69,7 @@ NOTE: Assembled and exploded view stl files are for reference only.
 
 
 - Extruder: -
+
 	1  -  Extruder.stl
 	1  -  Extruder_idler.stl
 	1  -  Extruder_motor_mount_v2.stl 
@@ -82,7 +84,7 @@ NOTE: 4mm and 5mm denote motor shaft size (use only one size)
 	or
 	2  -  Motor_gear_(5mm).stl
 
-NOTE: Two sets of ears included for the extruder. 
+NOTE: Two sets of gears included for the extruder. 
 The Herringbone gears are hard to print and need a highly calibrated machine to do so.
 
 	1  -  Extruder_large_v2.stl 		(normal gears 2.7:1)
@@ -92,10 +94,10 @@ The Herringbone gears are hard to print and need a highly calibrated machine to 
 
 	OR
 
-	1  -  Extruder_large.stl		(Herringbone gears 3.3:1 (very hard to print)
-	1  -  Extruder_small_(4mm).stl		(Herringbone gears 3.3:1 (very hard to print)
+	1  -  Extruder_large.stl	(Herringbone gears 3.3:1 (very hard to print)
+	1  -  Extruder_small_(4mm).stl	(Herringbone gears 3.3:1 (very hard to print)
 	or
-	1  -  Extruder_small_(5mm).stl		(Herringbone gears 3.3:1 (very hard to print)
+	1  -  Extruder_small_(5mm).stl	(Herringbone gears 3.3:1 (very hard to print)
 
 
 - Laser cut case files: - 
