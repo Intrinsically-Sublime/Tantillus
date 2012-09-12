@@ -1,3 +1,3 @@
-projection(cut = false) import("/home/b/Models/Tantillus_Main/V3.2/middle.stl", convexity = 5);
+projection(cut = false) import("/home/b/Models/Tantillus/Gears/Motor_gear_(4mm).stl", convexity = 5);
 
 
