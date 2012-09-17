@@ -39,9 +39,6 @@ NOTE: See image folder for exploded view of printed case.
 
 - Printed case connectors: -
 
-NOTE: Connectors are currently not oriented for printing (may 24, 2012+). 
-If you orient them it would be nice to get a pull request.
-
        1   -   Top front connector
        2   -   Top side connectors
        1   -   Rear lower connector
