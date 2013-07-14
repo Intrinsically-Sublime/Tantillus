@@ -77,27 +77,38 @@ NOTE: Assembled and exploded view stl files are for reference only.
 - Gears: - 
 
 NOTE: 4mm and 5mm denote motor shaft size (use only one size)
+NOTE: Or use optional pulleys in Pulley folder
 
 	2  -  Upper gear.stl
 	2  -  Motor_gear_(4mm).stl
 	or
 	2  -  Motor_gear_(5mm).stl
+	
+- Optional Pulleys -
+NOTE: Only use if you are NOT planning on using the above gears
+NOTE: Uses 267-3GT-06 belts.
+NOTE: #4 is for imperial nuts and grub screws, M4 is for Metric nuts and grub screws
+	
+	2 - Upper_50T_pulley_(8mm)(nn).stl
+	
+	and
+	
+	2 - Motor_40T_pulley_(4mm)(nn).stl
+	or
+	2 - Motor_40T_pulley_(5mm)(nn).stl
+	
+- Experimental pulleys -
+NOTE: There is a folder with 50 tooth motor pulleys that can be used in place of the 40T ones above.
+ But be warned there is no access to the motor bolts and you will be required to use hex bolts or
+  figure out some other way of tensioning them.
 
 NOTE: Two sets of gears included for the extruder. 
 The Herringbone gears are hard to print and need a highly calibrated machine to do so.
 
-	1  -  Extruder_large_v2.stl 		(normal gears 2.7:1)
-	1  -  Extruder_small_v2_(4mm).stl	(normal gears 2.7:1)
+	1  -  Extruder_large.stl 	(normal gears 2.7:1)
+	1  -  Extruder_small_(4mm).stl	(normal gears 2.7:1)
 	or
-	1  -  Extruder_small_v2_(5mm).stl	(normal gears 2.7:1)
-
-	OR
-
-	1  -  Extruder_large.stl	(Herringbone gears 3.3:1 (very hard to print)
-	1  -  Extruder_small_(4mm).stl	(Herringbone gears 3.3:1 (very hard to print)
-	or
-	1  -  Extruder_small_(5mm).stl	(Herringbone gears 3.3:1 (very hard to print)
-
+	1  -  Extruder_small_(5mm).stl	(normal gears 2.7:1)
 
 - Laser cut case files: - 
 
@@ -138,6 +149,7 @@ NOTE: Scad file used to make DXF's from STL's (Inkscape used to convert DXF's to
 	V3_svg.scad
 
 - Laser cut case corners -
+NOTE: You may require scaling these by %1 or %2
 
 	4  -  Corner_bottom.stl
 	1  -  Corner_top_front_left.stl
@@ -173,3 +185,4 @@ NOTE: Not all of these are used for each machine choose wisely
 	Spool_holders.blend
 	Tantillus_extruder.blend
 	Tantillus_gears.blend
+	Cable-Z_and_Printed-case-extensions.blend
