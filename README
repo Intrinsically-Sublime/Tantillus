@@ -102,8 +102,7 @@ NOTE: There is a folder with 50 tooth motor pulleys that can be used in place of
  But be warned there is no access to the motor bolts and you will be required to use hex bolts or
   figure out some other way of tensioning them.
 
-NOTE: Two sets of gears included for the extruder. 
-The Herringbone gears are hard to print and need a highly calibrated machine to do so.
+- Extruder gears -
 
 	1  -  Extruder_large.stl 	(normal gears 2.7:1)
 	1  -  Extruder_small_(4mm).stl	(normal gears 2.7:1)
